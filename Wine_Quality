@@ -1,0 +1,21 @@
+importing the labraries
+loading the data set
+description
+finding of null value
+data analysis(countplot)
+data analysis(KDE plot)
+data analysis(Dsitplot)
+data analysis (Histogram)
+Heatmao For Expressing Correlation
+Pairplot
+Violinplot
+Feature Selection
+Feature Importance
+Splitting Data Set
+LogisticRegression
+Using KNN
+Using SVC
+Using Decision Tree
+Using GaussianNB
+Using Random Forest
+Using Xgboost
